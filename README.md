@@ -1,1 +1,1 @@
-# trex-camera
+# INFINITE-RUNNER-GAME
